@@ -1,0 +1,25 @@
+# ignore all
+*
+
+# except source files in these folders
+!twopointers/
+
+# programming languages
+!*.cpp
+!*.d
+!*.py
+!*.hs
+!*.ml
+!*.nim
+!*.c
+!*.lua
+!*.lisp
+!*.scm
+!*.zig
+!*.cl
+
+# dont ignore gitignore
+!.gitignore
+
+# whitelist the license
+!LICENSE
